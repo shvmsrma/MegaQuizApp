@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MegaQuizApp/static/css/main.d1b05096.chunk.css",
+    "main.js": "/MegaQuizApp/static/js/main.1f99a7e2.chunk.js",
+    "main.js.map": "/MegaQuizApp/static/js/main.1f99a7e2.chunk.js.map",
+    "runtime-main.js": "/MegaQuizApp/static/js/runtime-main.477f44c0.js",
+    "runtime-main.js.map": "/MegaQuizApp/static/js/runtime-main.477f44c0.js.map",
+    "static/css/2.8bd11672.chunk.css": "/MegaQuizApp/static/css/2.8bd11672.chunk.css",
+    "static/js/2.30221bc9.chunk.js": "/MegaQuizApp/static/js/2.30221bc9.chunk.js",
+    "static/js/2.30221bc9.chunk.js.map": "/MegaQuizApp/static/js/2.30221bc9.chunk.js.map",
+    "index.html": "/MegaQuizApp/index.html",
+    "precache-manifest.1aff3a2ac2f8e9074cf2ffbbfa4286c4.js": "/MegaQuizApp/precache-manifest.1aff3a2ac2f8e9074cf2ffbbfa4286c4.js",
+    "service-worker.js": "/MegaQuizApp/service-worker.js",
+    "static/css/2.8bd11672.chunk.css.map": "/MegaQuizApp/static/css/2.8bd11672.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/MegaQuizApp/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.30221bc9.chunk.js.LICENSE.txt": "/MegaQuizApp/static/js/2.30221bc9.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/MegaQuizApp/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.477f44c0.js",
+    "static/css/2.8bd11672.chunk.css",
+    "static/js/2.30221bc9.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.1f99a7e2.chunk.js"
+  ]
+}
